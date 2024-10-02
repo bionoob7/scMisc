@@ -37,7 +37,7 @@
 #' @importFrom grDevices colorRampPalette
 #' @importFrom dplyr select mutate group_by rename
 #' @importFrom reshape2 melt
-@importFrom ggplot2 ggplot geom_violin scale_fill_gradientn facet_grid theme element_text element_blank labs scale_x_discrete scale_y_discrete geom_tile scale_fill_manual unit
+#' @importFrom ggplot2 ggplot geom_violin scale_fill_gradientn facet_grid theme element_text element_blank labs scale_x_discrete scale_y_discrete geom_tile scale_fill_manual unit
 #' @importFrom RColorBrewer brewer.pal
 #' @importFrom patchwork plot_layout
 #' @importFrom Seurat FetchData
